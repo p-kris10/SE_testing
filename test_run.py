@@ -1,4 +1,4 @@
-from search import WorkspaceLoginPage
+from space import WorkspaceLoginPage
 import time 
 import random
 import pytest
